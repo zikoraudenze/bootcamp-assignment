@@ -72,5 +72,5 @@ function writeToFile(fileName, data) {
     });
   }
   
-  // Function call to initialize app
+  // Function call to initialize app. 
   init();
